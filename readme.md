@@ -1,0 +1,5 @@
+# Practicing Swift following along CodeWithChris' tutorials
+I'm learning Swift from CodeWithChris' YouTube channel's tutorials. This repository contains all the code that I write for the homework assignments that I'm supposed to complete for the class. I'll put up the questions of the challenge as part of code in comments so that you are not left in the dark. I don't own a Mac so I write all my code on codechef's IDE. Feel free to use this code for your projects or as a reference. If you do decide to use it for your projects, please give me credit. Leeching sucks! Also, please leave comments on my code, if you can or if you feel that I could've written some part of the code better. This will help me learn and to identify my mistakes so that I can correct them.
+
+The link to the Swift Tutorial playlist:
+https://youtube.com/playlist?list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX
